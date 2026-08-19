@@ -9,7 +9,10 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B547E&center=true&vCenter=true&width=500&lines=Welcome+to+Stark+Industries." />
 </p>
 
-
-
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pfdxgjhzyjeqvrfu4cosm7i5ki&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=37ff00&bar_color_cover=false">
+  </a>
+</p>
+  
 <img width="1280" alt="tumblr_a89be04f2df435422a94dc0998a3494a_a03fe3ca_1280" src="https://github.com/user-attachments/assets/1bb34e47-e615-430b-acad-a63a7964ec80" />
