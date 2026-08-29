@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="center"> <img width="736" height="552" alt="hucklerobby in the big 2026" src="https://github.com/user-attachments/assets/39b08cc9-bf72-454b-91d3-060e13b5eed3" />
+<p align="center"> <img width="736" alt="hucklerobby in the big 2026" src="https://github.com/user-attachments/assets/39b08cc9-bf72-454b-91d3-060e13b5eed3" />
 
 
  <p align="center">
@@ -23,4 +23,4 @@
 <img width="1280" alt="tumblr_a89be04f2df435422a94dc0998a3494a_a03fe3ca_1280" src="https://github.com/user-attachments/assets/1bb34e47-e615-430b-acad-a63a7964ec80" />
 
 
-
+<p align="center"> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfdxgjhzyjeqvrfu4cosm7i5ki&cover_image=true&theme=default&show_offline=false&background_color=d5e9fb&interchange=false&profanity=false&hide_remaster=false&bar_color=5d92cb)](https://github.com/kittinan/spotify-github-profile)
