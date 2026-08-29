@@ -2,11 +2,21 @@
 
 
 
-<p align="center"> <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=2B547E" alt="views count">
-  
-<p align="center"> <img width="800" alt="ezgif com-video-to-gif-converter_1" src="https://github.com/user-attachments/assets/6132ccc8-efe2-4dae-a706-f19714571cf8" />
+<p align="center">
+  <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=2B547E&label=pittlings" alt="pittlings count">
+</p>
 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B547E&center=true&vCenter=true&width=500&lines=Welcome+to+Stark+Industries." />
+  
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B547E&center=true&vCenter=true&width=600&lines=You+could+have+a+different+life%2C+Dennis." />
+</p>
+
+
+<p align="center"> <img width="736" height="552" alt="hucklerobby in the big 2026" src="https://github.com/user-attachments/assets/39b08cc9-bf72-454b-91d3-060e13b5eed3" />
+
+
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B547E&center=true&vCenter=true&width=600&lines=I+don%27t+know.+I+don%27t+know.+Please%2C+Michael." />
 </p>
 
 
