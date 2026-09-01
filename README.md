@@ -1,24 +1,25 @@
-<img width="1280" alt="tumblr_b7d89c36c3e2fd8fe3824f338e0c7aa3_fb0f859f_1280" src="https://github.com/user-attachments/assets/aa6a05df-f543-4f37-92ca-820e51f86c2c" />
+
+<img width="1280" alt="tumblr_44f0dd13780c1d27f4736e7e72e349af_1463dc3a_1280" src="https://github.com/user-attachments/assets/2febb7da-ff4e-42bd-b4c2-ebdbda316122" />
+
 
 
 
 <p align="center">
-  <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=2B547E&label=pittlings" alt="pittlings count">
+  <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=F5A623&label=pittlings" alt="pittlings count">
 </p>
 
   
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B547E&center=true&vCenter=true&width=600&lines=You+could+have+a+different+life%2C+Dennis." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A623&center=true&vCenter=true&width=500&lines=I+love+you.+Thank+you." />
 </p>
 
 
-<p align="center"> <img width="736" alt="hucklerobby in the big 2026" src="https://github.com/user-attachments/assets/39b08cc9-bf72-454b-91d3-060e13b5eed3" />
+<p align="center"> <img width="736" <img width="735" height="601" alt="buddy ★ (@eldritchbuddy) on X" src="https://github.com/user-attachments/assets/967808cf-61a0-4051-be78-454431ac1d43" />
 
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B547E&center=true&vCenter=true&width=600&lines=I+don%27t+know.+I+don%27t+know.+Please%2C+Michael." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=I+forgive+you.+Please+forgive+me." />
 </p>
 
-
-<img width="1280" alt="tumblr_a89be04f2df435422a94dc0998a3494a_a03fe3ca_1280" src="https://github.com/user-attachments/assets/1bb34e47-e615-430b-acad-a63a7964ec80" />
+<img width="1280" alt="tumblr_0cda05e0a131c7e1277b31fd6c46d8e8_f6bf3c2a_1280" src="https://github.com/user-attachments/assets/66872f6b-4dce-4786-aa05-c42a1a77f64e" />
 
