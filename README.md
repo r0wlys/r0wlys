@@ -1,3 +1,3 @@
 
-<p align="center"> <img width="474" height="260" alt="Black Mirror" src="https://github.com/user-attachments/assets/3139c02a-a394-4088-8b19-3f0437fe568e" />
+<p align="center"><img width="640" height="361" alt="download (37)" src="https://github.com/user-attachments/assets/c1e885e7-d023-456a-8afe-c010e7b1a33f" />
 
