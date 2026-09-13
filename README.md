@@ -1,6 +1,3 @@
-<p align="center">
-  <sub><font color="white">bucky barnes biggest fan</font></sub>
-</p>
 
 
 <p align="center">
