@@ -1,4 +1,4 @@
- ###### <p align="center"> [kaotown](https://github.com/kaotown)
+ ###### <p align="center"> [kaotown](https://github.com/kaotown) <p align="center"> [pt rewards](https://github.com/Ponytowns-rewards)
 
 <p align="center">
   <img width="180" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=FFD700&labelColor=C1121F&label=ARC%20REACTORS" alt="ARC REACTOR">
