@@ -1,20 +1,18 @@
 
 
 <p align="center">
-  <img width="180" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=FFD700&labelColor=C1121F&label=ARC%20REACTORS" alt="ARC REACTOR">
+  <img width="100" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=B30000&labelColor=000000&label=FREAKS" alt="FREAKS">
 </p>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=1000&color=C1121F&center=true&vCenter=true&width=400&lines=I+am" />
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Iron+Man." />
+  <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=400&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=THIS+YEAR+IS+MY+YEAR." />
 </p>
 
 
 
-<p align="center"> <img width="540" height="350" alt="I herald Galactus_" src="https://github.com/user-attachments/assets/fa01de08-3d2c-4f9b-aebb-f3866d984dbb" />
-
+<p align="center"> <img width="540" height="304" alt="download (2)" src="https://github.com/user-attachments/assets/6cac8ce8-e797-4c49-8702-fed434fef63b" />
 
 
 <p align="center">
