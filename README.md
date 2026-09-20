@@ -1,19 +1,18 @@
 
 
 <p align="center">
-  <img width="100" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=B30000&labelColor=000000&label=FREAKS" alt="FREAKS">
+  <img width="130" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=B8860B&labelColor=000000&label=ASTROPHAGE" alt="ASTROPHAGE">
 </p>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=400&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=THIS+YEAR+IS+MY+YEAR." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=There%E2%80%99s+no+harm+in+pretending+for+a+little+while." />
 </p>
 
 
 
-<p align="center"> <img width="540" height="304" alt="download (2)" src="https://github.com/user-attachments/assets/6cac8ce8-e797-4c49-8702-fed434fef63b" />
-
+<p align="center"> <img width="540" height="387" alt="Post by @victoria-pedretti · 10 images" src="https://github.com/user-attachments/assets/d49588ee-63d6-43c8-8d86-526a5b833524" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
