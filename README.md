@@ -1,11 +1,8 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=There%E2%80%99s+no+harm+in+pretending+for+a+little+while." />
-</p>
 
 
 
-<p align="center"> <img width="540" height="387" alt="Post by @victoria-pedretti · 10 images" src="https://github.com/user-attachments/assets/d49588ee-63d6-43c8-8d86-526a5b833524" />
+
+<p align="center"> <img width="400" height="464" alt="Robert Downey Jr_" src="https://github.com/user-attachments/assets/55716fe7-911b-4854-9dd5-f540144e07a7" />
 
 
- ###### <p align="center"> [kaotown](https://github.com/kaotown) <p align="center"> [pt rewards](https://github.com/Ponytowns-rewards)
