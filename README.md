@@ -1,8 +1,5 @@
-
-
-
-
-
-<p align="center"> <img width="400" height="464" alt="Robert Downey Jr_" src="https://github.com/user-attachments/assets/55716fe7-911b-4854-9dd5-f540144e07a7" />
-
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pfdxgjhzyjeqvrfu4cosm7i5ki&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
