@@ -12,11 +12,4 @@
 
 
  
-<div align="center">
-<details>
-<summary> awards </summary>
 
-###### [kaotown](https://github.com/kaotown) [pt-rewards](https://github.com/Ponytowns-rewards) [pt-everypony](https://github.com/pt-everypony) [piddlesjet](https://github.com/piddlesjet)
-
-</details>
-</div>
