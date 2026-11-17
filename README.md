@@ -9,3 +9,14 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pfdxgjhzyjeqvrfu4cosm7i5ki&cover_image=false&theme=natemoo-re&show_offline=false&background_color=5c1010&interchange=false&profanity=false&hide_remaster=false&bar_color=af4646&bar_color_cover=false">
   </a>
 </p>
+
+
+ 
+<div align="center">
+<details>
+<summary> awards </summary>
+
+###### [kaotown](https://github.com/kaotown) [pt-rewards](https://github.com/Ponytowns-rewards) [pt-everypony](https://github.com/pt-everypony) [piddlesjet](https://github.com/piddlesjet)
+
+</details>
+</div>
